@@ -1,4 +1,5 @@
 ### 运行结果
+```text
 -------------window------------
 Picture[name=Logo图片, src=http://example.com/logo.png]
 -------------frame-------------
@@ -14,3 +15,4 @@ LinkLabel[name=忘记密码, text=忘记密码, href=http://example.com/forgotPa
 Button[name=登录按钮, text=登录, function=login()]
 Button[name=注册按钮, text=注册, function=registry()]
 ------------------------------
+```
